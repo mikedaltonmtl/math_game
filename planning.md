@@ -1,15 +1,13 @@
-# Nouns
+## Nouns
 - Math Game
 - Turn
 - Question
 - Player
 - Life
 
-# Classes
+## Classes
 
-## Math Game
-
-### Role
+### Game
 - Container to store and manage the game elements
 - `State`: player1, player2
 - `Behaviour`: begin new game, next turn, show result / end game
